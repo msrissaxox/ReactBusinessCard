@@ -11,7 +11,7 @@ export default function About() {
     stacks, and love coding on my free time.
 </p>
 <h1>Interests</h1>
-<p>Food, french music, puzzling, barre, biking, fragrances, coffee, t
+<p>Food, french music, coding, puzzling, barre, biking, coffee, t
     ravel and most of all, love.</p>
         </div>
     )

@@ -1,11 +1,11 @@
 
-import React from 'react'
+// import React from 'react'
 
 
 export default function Info(){
     return(
         <div>
-            <img src="../images/rissapic.JPG"/>
+            { /* <img src="../images/rissapic.JPG"/> */}
             <h1>Marissa Lamothe</h1>
             <h2>Front End Developer</h2>
             <p>marissa.bianca.lamothe@gmail.com</p>
